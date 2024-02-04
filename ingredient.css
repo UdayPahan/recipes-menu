@@ -1,0 +1,19 @@
+
+
+.ingredients h2{
+    font-weight: 600;
+}
+
+.ingredients ul{
+    color: var(--Nutmeg);
+    padding-left: 2rem;
+    padding-bottom: 1rem;
+}
+
+.ingredients ul li{
+    padding-left: 1rem;
+}
+
+.ingredient-desc{
+    color:var(--Wenge-Brown);
+}
