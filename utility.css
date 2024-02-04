@@ -1,0 +1,29 @@
+.container{
+   width:100%;
+   padding:0.4rem;
+   line-height:1.5;
+   margin-inline: 2rem;
+}
+
+.title{
+font-family: 'Young Serif', serif;
+color:#FF931DB0;
+padding:2rem 0;
+}
+
+.text{
+   max-width:40ch;
+   font-family: 'Outfit', sans-serif;
+   font-weight: 600;
+   padding-bottom: 2rem;
+}
+
+body li{
+padding-bottom: 1.4rem;
+}
+
+@media (min-width:375px){
+   .container{
+      max-width:375px;
+   }
+}
